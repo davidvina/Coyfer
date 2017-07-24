@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "9F784019-C2D3-4632-84B4-F42B6A72C6A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 156,
+    "x": 1147,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D9EF9A56-8795-41EE-A53F-4F1B4C7E4A41"
+    },
+    {
+      "class": "text",
+      "id": "45957116-4F4E-4490-B62A-20F11BB78382"
+    },
+    {
+      "class": "text",
+      "id": "FEE14B3E-3AFF-4E71-B713-56D2B68D950E"
+    },
+    {
+      "class": "text",
+      "id": "72FA6987-CFE6-435C-8BC8-601040E06DCC"
+    }
+  ],
+  "name": "Follow Us",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
